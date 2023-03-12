@@ -1,0 +1,22 @@
+.App{
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+footer{
+  position: sticky;
+  top: 100%;
+  margin-top: auto;
+  background-color: #212121;
+  color: rgba(255, 255, 255, 0.85);
+  height: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  padding: 25px 0;;
+}
