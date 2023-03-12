@@ -47,7 +47,7 @@ function App() {
         {forecast && <Forecast data={forecast} />}
       </div>
       <footer className="foot">
-        <p>Made by <a href="https://www.linkedin.com/in/muditjain20/" target="_blank"> Mudit Jain</a></p>
+        <p>Made by <a href="https://www.linkedin.com/in/muditjain20/" > Mudit Jain</a></p>
       </footer>
     </div>
   );
